@@ -40,3 +40,13 @@ This approach prioritizes **clarity, justification, and operational usability**.
 ---
 
 ## 📂 Repository Structure
+British-Airways-lounge-eligibility-case-study-Forage/
+│
+├── Task Material/
+├── task1_lounge_eligibility.xlsx
+├── task2_modeling.ipynb
+├── task2_customer_behavior.pdf
+├── overall_report.pdf
+├── README.md
+├── .gitignore
+
