@@ -39,10 +39,15 @@ This approach prioritizes **clarity, justification, and operational usability**.
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
+```text
 British-Airways-lounge-eligibility-case-study-Forage/
 │
 ├── Task Material/
+│   ├── British Airways Summer Schedule Dataset - Forage Data Science Task 1.xlsx
+│   ├── Lounge Eligibility Lookup Template - Task 1.xlsx
+│   └── customer_booking.csv
+│
 ├── task1_lounge_eligibility.xlsx
 ├── task2_modeling.ipynb
 ├── task2_customer_behavior.pdf
@@ -50,3 +55,64 @@ British-Airways-lounge-eligibility-case-study-Forage/
 ├── README.md
 ├── .gitignore
 
+---
+
+## 🛠 Tools & Technologies
+
+### Languages & Tools
+- Python
+- Jupyter Notebook
+- Microsoft Excel
+
+### Skills Applied
+- Data Analysis
+- Assumption-Based Modeling
+- Business Reasoning
+- Documentation & Reporting
+
+---
+
+## 📌 Key Files Explained
+
+### `task1_lounge_eligibility.xlsx`
+Route-based lounge eligibility calculations and justification
+
+### `task2_modeling.ipynb`
+Customer booking analysis and modeling logic
+
+### `task2_customer_behavior.pdf`
+Insights and observations from customer behavior analysis
+
+### `overall_report.pdf`
+Consolidated summary of tasks, approach, and outcomes
+
+### `Task Material/`
+Files provided as part of the Forage simulation (unchanged)
+
+---
+
+## 📈 Key Outcomes
+- Built a route-based lounge eligibility framework
+- Balanced simplicity with airline business logic
+- Designed a reusable and explainable model
+- Demonstrated structured analytical thinking
+
+---
+
+## 🎓 Certification
+Aligned with the  
+**British Airways Data Science Job Simulation – Forage**  
+**Duration:** January 2026 – February 2026
+
+---
+
+## 👤 Author
+**Anmol Patel**  
+Aspiring Data Scientist | Analytics & Modeling
+
+---
+
+## 📌 Notes
+- All assumptions are clearly documented
+- No confidential or proprietary data is used
+- Created strictly for learning and portfolio purposes
